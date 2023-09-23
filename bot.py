@@ -1,3 +1,4 @@
+import aiogram
 import wikipedia as wk
 import aiogram.utils.markdown as md
 from aiogram.dispatcher import FSMContext
